@@ -117,7 +117,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | google3 philosophy                       | [innersource](https://resources.github.com/whitepapers/introduction-to-innersource/), [monorepo](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext) |
 | doing code review                        | [code review](https://google.github.io/eng-practices/review/reviewer/) |
 | safely sharing 1-time secrets            | [croc](https://github.com/schollz/croc), [onetimesecret](https://github.com/onetimesecret/onetimesecret), [privatebin](https://privatebin.info/) |
-| messaging                                | [mattermost](https://github.com/mattermost/mattermost-server), [Slack](https://slack.com), gchat |
+| messaging                                | [mattermost](https://github.com/mattermost/mattermost-server), [Slack](https://slack.com), [Zulip](https://github.com/zulip/zulip) gchat |
 | tech talks | [TechTalks @ Google](https://www.youtube.com/user/GoogleTechTalks/videos) |
 | g3doc | [writethedocs](https://www.writethedocs.org/), [docs-as-code](https://idratherbewriting.com/learnapidoc/pubapis_docs_as_code.html) |
 | GUTS | [spoke](https://www.atspoke.com/) |
